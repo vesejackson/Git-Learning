@@ -1,9 +1,13 @@
 body{
     align-items: center;
     margin-top: auto;
+    position: relative;
 }
 img{
     border: 4px red solid;
+    position: fixed;
+    top: 20vh;
+    left: 10vh;
 }
 h3{
     color: blue;
