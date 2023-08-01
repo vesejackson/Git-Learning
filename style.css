@@ -6,3 +6,12 @@ img{
     border-color: red;
     border-image: round;
 }
+h3{
+    color: blue;
+    font-weight: bold;
+    font-size: 45pt;
+}
+p{
+    text-align: center;
+    font-size: 25pt;
+}
