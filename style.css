@@ -2,3 +2,7 @@ body{
     align-items: center;
     margin-top: auto;
 }
+img{
+    border-color: red;
+    border-image: round;
+}
