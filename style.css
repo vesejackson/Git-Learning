@@ -3,8 +3,7 @@ body{
     margin-top: auto;
 }
 img{
-    border-color: red;
-    border-image: round;
+    border: 4px red solid;
 }
 h3{
     color: blue;
